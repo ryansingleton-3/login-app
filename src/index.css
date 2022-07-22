@@ -11,3 +11,75 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.btn {
+  margin: 2%;
+  margin-bottom: 10%;
+}
+
+#top-row {
+  display: flex;
+  margin-bottom: 10%;
+
+}
+
+#navbar {
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#navbar a {
+  margin-left: 5%;
+  margin-right: 2%;
+  text-decoration: none;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2rem;
+}
+
+#navbar a:hover {
+  color: black;
+  transform: scale(1.2);
+}
+
+#bottom-row {
+  margin-top: 21%;
+  
+}
+
+form {
+  margin-top: 3%;
+}
+
+h2, h3, h4, h5, p {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+label, input, h6 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  
+}
+
+#main-heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3.5rem;
+  padding-top: 4%;
+}
+
+.input1 {
+  margin-bottom: 3%;
+  border-radius: 20px;
+}
+
+.input2 {
+  border-radius: 20px;
+}
+
+button {
+  border-radius: 100px;
+}
