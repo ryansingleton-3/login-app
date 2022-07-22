@@ -1,3 +1,7 @@
+This is a login page created with ReactJS. It utilizes HTML (JSX (JavaScript XML)), CSS, and JavaScript. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
